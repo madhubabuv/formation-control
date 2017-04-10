@@ -1,0 +1,19 @@
+<package>
+  <description brief="formation_control">
+
+     formation_control
+
+  </description>
+  <author>ilab</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/formation_control</url>
+  <depend package="roscpp"/>
+  <depend package="rospy"/>
+  <depend package="std_msgs"/>
+  <depend package="dynamic_reconfigure"/>
+  <depend package="geometry_msgs"/>
+
+</package>
+
+
